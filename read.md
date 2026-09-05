@@ -69,3 +69,11 @@ Answer
 7. The Top-K most relevant chunks are retrieved.
 8. The retrieved chunks are added to the prompt.
 9. Ollama generates the final answer using the retrieved context.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Talibkhan53/VectorMind---RAG-System
+cd VectorMind
